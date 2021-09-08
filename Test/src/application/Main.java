@@ -4,6 +4,7 @@ public class Main {
 	
 	public static void main(String[] args) {
         
+		//Möp
 		Parser parser = new Parser();
 		ParserI parser2 = new DateTimeParser();
 		parser.parseAndDisplay("18/33/11/12");
